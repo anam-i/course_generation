@@ -1,0 +1,6 @@
+numpy
+streamlit
+requests
+fpdf
+dotenv
+openai
